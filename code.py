@@ -45,4 +45,4 @@ while turns > 0:
         print("You have", + turns, 'more guesses')
 
         if turns == 0:
-            print("You Lost")
+            print("You Loose")
