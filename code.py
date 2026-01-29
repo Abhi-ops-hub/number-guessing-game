@@ -34,7 +34,7 @@ while turns > 0:
         break
 
     print()
-    guess = input("guess aa character:")
+    guess = input("guess any character:")
 
     guesses += guess
 
